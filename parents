@@ -1,2 +1,6 @@
-# kawchar
-Zillur Rahman Kawchar 
+# Kawchar
+a=input("1st number=")
+
+b=input (2nd number=")
+
+print ("a+b)
